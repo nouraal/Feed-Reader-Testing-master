@@ -30,7 +30,7 @@ You can visit [Udacity]( https://www.udacity.com/) site and register in any cour
 3. For expectations part i use .toBe() case.
 
 #### For Initial Entries:
-1. Single .entry element within the .feed container, using .length to measure length of .entry.
+1. Single .entry element within the .feed container, using .length to measure length of .feed .entry.
 2. The loadFeed() is asynchronous so i use of Jasmine's beforeEach and asynchronous done() function.
 3. For expectations part i use .not.toBe() case.
 
